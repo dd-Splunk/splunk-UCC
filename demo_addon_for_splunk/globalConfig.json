@@ -176,12 +176,13 @@
     "meta": {
         "name": "demo_addon_for_splunk",
         "restRoot": "demo_addon_for_splunk",
-        "version": "0.0.1",
+        "version": "0.0.0+4d06127",
         "displayName": "Demo Add-on for Splunk",
-        "schemaVersion": "0.0.8",
+        "schemaVersion": "0.0.9",
         "supportedThemes": [
             "light",
             "dark"
-        ]
+        ],
+        "_uccVersion": "5.55.0"
     }
 }
